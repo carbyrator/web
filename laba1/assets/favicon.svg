@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Фавикон">
+  <rect width="64" height="64" rx="16" fill="#0f766e"/>
+  <path d="M18 27 20 14l10 8h4l10-8 2 13c5 4 7 9 7 15 0 11-9 18-21 18S11 53 11 42c0-6 2-11 7-15Z" fill="#fff7ed"/>
+  <path d="M24 37h1.5M38.5 37H40" stroke="#17262b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M31 43h2l-1 2-1-2Z" fill="#17262b"/>
+  <path d="M25 48c3 3 11 3 14 0" fill="none" stroke="#17262b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M14 42h12M38 42h12M15 47h11M38 47h11" stroke="#17262b" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+</svg>
