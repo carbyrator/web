@@ -6,7 +6,7 @@
   const seedStudents = [
     {
       id: 's-1001',
-      fullName: 'Иванов Андрей Сергеевич',
+      fullName: 'Иванов Андрей',
       group: 'M3301',
       isuId: 342781,
       dormNumber: 8,
@@ -19,7 +19,7 @@
     },
     {
       id: 's-1002',
-      fullName: 'Анна Смирнова',
+      fullName: 'Смирнова Анна',
       group: 'P3215',
       isuId: 518294,
       dormNumber: 3,
@@ -32,7 +32,7 @@
     },
     {
       id: 's-1003',
-      fullName: 'Мария Петрова',
+      fullName: 'Петрова Мария',
       group: 'K3140',
       isuId: 764032,
       dormNumber: 12,
